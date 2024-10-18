@@ -1,0 +1,5 @@
+#imagem-receita{
+    /*flexbox*/
+    display: flex;
+    justify-content: center;
+}
